@@ -1,1 +1,1 @@
-# This room contains rooms of the game
+# This folder contains rooms of the game
